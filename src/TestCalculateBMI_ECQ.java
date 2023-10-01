@@ -2,6 +2,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * Test case kiểm thử hộp đen bằng phương pháp phân hoạch tương đương
+ */
 public class TestCalculateBMI_ECQ {
     @Test
     public void testCalculateBMI1() {

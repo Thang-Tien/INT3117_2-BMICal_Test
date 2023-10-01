@@ -2,6 +2,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * Test case kiểm thử hộp đen bằng phương pháp lập bảng quyết định
+ */
 public class TestCalculateBMI_DT {
     @Test
     public void testCalculateBMI1() {
