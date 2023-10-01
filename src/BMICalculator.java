@@ -16,4 +16,8 @@ public class BMICalculator {
         return "Béo phì";
     }
 
+    public static void main(String[] args) {
+        System.out.println(calculateBMI(76, 1.75));
+    }
+
 }
